@@ -10,6 +10,4 @@ Clone the repository:
 Bash
 git clone https://github.com/dhriti09/your-repo-name.git
 
-Email: dhritiyadav019@gmail.com
 
-GitHub: github.com/dhriti09
