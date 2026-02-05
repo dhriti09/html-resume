@@ -1,5 +1,5 @@
 📄 Personal Portfolio Website
-A clean, responsive personal portfolio website built with semantic HTML and CSS to showcase my academic background, technical skills, and software projects.
+A clean, responsive personal portfolio website built with semantic HTML ashowcase  academic background, technical skills, and software projects.
 
 
 Languages: HTML
